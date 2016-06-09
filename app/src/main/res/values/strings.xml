@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EX_SQL</string>
+    <string name="precios">PRECIOS</string>
+    <string name="iroman">Iroman</string>
+    <string name="viudanegra">Viuda Negra</string>
+    <string name="Capitanamerica">Capitán America</string>
+    <string name="hulk">Hulk</string>
+    <string name="brujaescarlata">Bruja Escarlata</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="valorapagar">Valor a Pagar</string>
+    <string name="comprar">Comprar</string>
+    <string name="porcentajes">Porcentajes (%)</string>
+    <string name="guardar">Guardar</string>
+    <string name="configuracion">Configuración</string>
+    <string name="limpiarcampos">Limpiar Campos</string>
+</resources>
